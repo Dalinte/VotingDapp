@@ -1,0 +1,11 @@
+{
+  "name": "VotingDapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dalinte/VotingDapp.git",
+  "author": "Sergey <kollekcionerssd1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.12.0"
+  }
+}
